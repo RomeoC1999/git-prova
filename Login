@@ -1,5 +1,9 @@
 
+Aggiunta del titolo da parte di Frontend
 Grafica per il login basic
-Miglioramento grafica login
+
+Rimozione miglioramento
 
 Frontend modifica login
+
+Frontend modifica di nuovo login
